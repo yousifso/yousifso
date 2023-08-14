@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yousif Gurma</h1>
 <h3 align="center">Programming student, still looking for a path</h3>
-<img align="right" alt="Coding" width="400" src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU”>
+<img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousifso&label=Profile%20views&color=0e75b6&style=flat" alt="yousifso" /> </p>
